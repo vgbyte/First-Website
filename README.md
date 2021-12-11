@@ -1,2 +1,4 @@
 # First-Website
-My first website from basics only. No bootstrap or other Tempelate
+https://my-first-website-from-scratch.netlify.app/
+
+My first website from basics only, no library was used.
